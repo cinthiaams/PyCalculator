@@ -16,7 +16,7 @@ To use Pycalculator, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your_username/PyCalculator.git
+   git clone https://github.com/cinthiaams/PyCalculator.git
    
 2. **Navigate to the Directory**:
 
